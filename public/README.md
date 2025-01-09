@@ -3,7 +3,7 @@
 ### **Course Instructor: Tanzeela Javid Kaloo | Assistant Professor-LPU**
 
 
-### **CAP-378 Artificial Intelligence**
+## **CAP-378 Artificial Intelligence**
 
 ---
 
