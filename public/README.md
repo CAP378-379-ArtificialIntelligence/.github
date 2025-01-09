@@ -12,13 +12,11 @@ Through this course, students should be able to:
 **CO3:** Apply analytical concepts to address uncertainty and fuzzification.  
 **CO4:** Discuss the use of AI languages and tools, and apply AI principles to problems involving inference, knowledge representation, and logical reasoning.  
 
----
 
 ### **Credit Distribution:**  
 **Lecture Hours (L):** 3  
 **Credits:** 3  
 
----
 
 ### **Unit-Wise Syllabus:**  
 
