@@ -113,15 +113,6 @@ Through this course, students should be able to:
 
 ---
 
-### **Tools and Programming Frameworks/Libraries:**
-1. Programming Languages: Python, Prolog.
-2. Libraries: NumPy, Pandas, scikit-learn, TensorFlow, PyTorch.
-3. Game Development Tools: MiniMax, Alpha-Beta Pruning Implementations.
-4. Visualization Tools: Matplotlib, Seaborn.
-5. Fuzzy Logic Frameworks: scikit-fuzzy, MATLAB (optional).
-6. Knowledge Representation and Inference Tools: SWI-Prolog.
-7. Planning and AI Modeling Tools: PDDL, AI Planner.
-
 
 ## **CAP-379 Artificial intelligence Laboratory**
 
@@ -194,6 +185,16 @@ Through this course, students should be able to:
 
 ---
 
+### **Tools and Programming Frameworks/Libraries:**
+1. Programming Languages: Python, Prolog.
+2. Libraries: NumPy, Pandas, scikit-learn, TensorFlow, PyTorch.
+3. Game Development Tools: MiniMax, Alpha-Beta Pruning Implementations.
+4. Visualization Tools: Matplotlib, Seaborn.
+5. Fuzzy Logic Frameworks: scikit-fuzzy, MATLAB (optional).
+6. Knowledge Representation and Inference Tools: SWI-Prolog.
+7. Planning and AI Modeling Tools: PDDL, AI Planner.
+
+---
 ### **Textbook:**  
 1. *Prolog Programming for Artificial Intelligence* by Ivan Bratko, Pearson.  
 
