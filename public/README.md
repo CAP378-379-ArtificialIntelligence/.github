@@ -2,8 +2,8 @@
 
 ### **Course Instructor: Tanzeela Javid Kaloo | Assistant Professor-LPU**
 
-## **CAP-378 Artificial intelligence**
-
+# **CAP-378 Artificial intelligence**
+---
 ### **Course Outcomes (COs):**  
 Through this course, students should be able to:  
 **CO1:** Define the approaches and types of artificial intelligence used for problem-solving.  
