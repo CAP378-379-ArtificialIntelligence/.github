@@ -123,8 +123,9 @@ Through this course, students should be able to:
 ---
 
 ### **Credit Distribution:**  
-  **Practical Hours (P):** 2  
-  **Credits:** 1  
+**Practical Hours (P):** 2  
+ **Credits:** 1  
+
 ---
 
 ### **Topics Covered:**  
