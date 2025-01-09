@@ -2,7 +2,7 @@
 
 ### **Course Instructor: Tanzeela Javid Kaloo | Assistant Professor-LPU**
 
-## **CAP-378 Artificial intelligence**
+# **CAP-378 Artificial intelligence**
 
 
 ### **Course Outcomes (COs):**  
@@ -11,12 +11,12 @@ Through this course, students should be able to:
 **CO2:** Understand knowledge representation, heuristic search algorithms, and various methods of game-playing.  
 **CO3:** Apply analytical concepts to address uncertainty and fuzzification.  
 **CO4:** Discuss the use of AI languages and tools, and apply AI principles to problems involving inference, knowledge representation, and logical reasoning.  
-
+---
 
 ### **Credit Distribution:**  
 **Lecture Hours (L):** 3  
 **Credits:** 3  
-
+---
 
 ### **Unit-Wise Syllabus:**  
 
@@ -110,7 +110,7 @@ Through this course, students should be able to:
 ---
 
 
-## **CAP-379 Artificial intelligence Laboratory**
+# **CAP-379 Artificial intelligence Laboratory**
 
 ### **Course Outcomes (COs):**  
 **CO1:** Discuss the role of Python and Prolog in Artificial Intelligence.  
