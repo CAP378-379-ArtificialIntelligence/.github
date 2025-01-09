@@ -4,8 +4,6 @@
 
 # **CAP-379 Artificial intelligence Laboratory**
 
-Here is the updated version:  
-
 ### **Course Outcomes (COs):**  
 **CO1:** Discuss the role of Python and Prolog in Artificial Intelligence.  
 **CO2:** Apply fundamental principles of AI to solve problems involving inference, perception, knowledge representation, and learning.  
@@ -83,5 +81,3 @@ Here is the updated version:
 
 ### **References:**  
 1. *The Art of Prolog* by Leon Sterling and Ehud Shapiro, MIT Press.  
-
-Let me know if you need further changes or additions!
