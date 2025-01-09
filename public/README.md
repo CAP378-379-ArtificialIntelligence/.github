@@ -12,6 +12,11 @@
 
 ---
 
+### **Credit Distribution:**  
+**Practical Hours (P):** 2  
+**Credits:** 1 
+---
+
 ### **Topics Covered:**  
 
 #### **Prolog Programming for AI:**  
@@ -65,14 +70,6 @@
 3. **Machine Learning with Weka:**  
    - Data loading and pre-processing in Weka.  
    - Applying classification and clustering techniques on datasets.  
-
----
-
-### **Credit Distribution:**  
-**Lecture Hours (L):** 0  
-**Tutorial Hours (T):** 0  
-**Practical Hours (P):** 2  
-**Credits:** 1  
 
 ---
 
