@@ -2,19 +2,24 @@
 
 ### **Course Instructor: Tanzeela Javid Kaloo | Assistant Professor-LPU**
 
-# **CAP-378 Artificial intelligence**
+
+### **CAP-378 Artificial Intelligence**
+
 ---
+
 ### **Course Outcomes (COs):**  
 Through this course, students should be able to:  
 **CO1:** Define the approaches and types of artificial intelligence used for problem-solving.  
 **CO2:** Understand knowledge representation, heuristic search algorithms, and various methods of game-playing.  
 **CO3:** Apply analytical concepts to address uncertainty and fuzzification.  
 **CO4:** Discuss the use of AI languages and tools, and apply AI principles to problems involving inference, knowledge representation, and logical reasoning.  
+
 ---
 
 ### **Credit Distribution:**  
 **Lecture Hours (L):** 3  
 **Credits:** 3  
+
 ---
 
 ### **Unit-Wise Syllabus:**  
@@ -109,7 +114,7 @@ Through this course, students should be able to:
 ---
 
 
-# **CAP-379 Artificial intelligence Laboratory**
+## **CAP-379 Artificial Intelligence Laboratory**
 
 ### **Course Outcomes (COs):**  
 **CO1:** Discuss the role of Python and Prolog in Artificial Intelligence.  
@@ -121,7 +126,7 @@ Through this course, students should be able to:
 
 ### **Credit Distribution:**  
 **Practical Hours (P):** 2  
-**Credits:** 1 
+**Credits:** 1  
 ---
 
 ### **Topics Covered:**  
@@ -180,18 +185,19 @@ Through this course, students should be able to:
 
 ---
 
-### **Tools and Programming Frameworks/Libraries:**
-1. Programming Languages: Python, Prolog.
-2. Libraries: NumPy, Pandas, scikit-learn, TensorFlow, PyTorch.
-3. Game Development Tools: MiniMax, Alpha-Beta Pruning Implementations.
-4. Visualization Tools: Matplotlib, Seaborn.
-5. Fuzzy Logic Frameworks: scikit-fuzzy, MATLAB (optional).
-6. Knowledge Representation and Inference Tools: SWI-Prolog.
-7. Planning and AI Modeling Tools: PDDL, AI Planner.
+### **Tools and Programming Frameworks/Libraries:**  
+- **Programming Languages:** Python, Prolog.  
+- **Libraries:** scikit-learn, NumPy, Pandas.  
+- **Knowledge Representation Tools:** SWI-Prolog.  
+- **Search and Problem-Solving Algorithms:** Custom Implementations.  
+- **Machine Learning Tools:** Weka.  
+- **Visualization Tools:** Matplotlib, Seaborn.
 
 ---
+
 ### **Textbook:**  
 1. *Prolog Programming for Artificial Intelligence* by Ivan Bratko, Pearson.  
 
 ### **References:**  
-1. *The Art of Prolog* by Leon Sterling and Ehud Shapiro, MIT Press.  
+1. *The Art of Prolog* by Leon Sterling and Ehud Shapiro, MIT Press.
+
